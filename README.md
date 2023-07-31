@@ -1,1 +1,1 @@
-# Yagnitha18-Yagnitha18-Banana-Plantation-Disease-Prediction
+# Banana-Plantation-Disease-Prediction
